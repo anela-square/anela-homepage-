@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <title>アネラスクエア</title>
+</head>
+<body>
+
+<h1>アネラスクエア</h1>
+
+<p>小さなアトリエから可愛いを生み出す/p>
+
+<h2>事業内容</h2>
+
+<ul>
+<li>ベビー洋服</li>
+<li>プライベートサロン</li>
+<li>駄菓子屋nicco</li>
+<li>保育士〈/li>
+</ul>
+
+</body>
+</html>
